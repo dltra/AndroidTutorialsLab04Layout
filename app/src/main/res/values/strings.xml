@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">LayoutDemo</string>
-    <string name="greeting1">Hello Dad</string>
-    <string name="greeting2">Hello Mom</string>
-    <string name="greeting3">Hello Friend</string>
+    <string name="greeting1">Hello Dad!</string>
+    <string name="greeting2">Hello Mom!</string>
+    <string name="greeting3">Hello Friend!</string>
     <string name="greeting4">Hello Funness!</string>
     <string name="greeting5">Greeting Earthling</string>
     <string name="like_label">LIKE</string>
